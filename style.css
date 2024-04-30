@@ -1,0 +1,176 @@
+/* #1 banner */
+.banner {
+  padding: 120px 50px;
+  border-radius: 10px;
+  background-color: #1de592;
+  width: 420px;
+  margin: 100px auto;
+}
+.btn {
+  background-color: white;
+  padding: 13px 33px;
+  border-radius: 40px;
+  font-size: 17px;
+  font-weight: 700;
+  border: none;
+}
+.heading {
+  font-size: 40px;
+  word-wrap: break-word;
+  font-family: sans-serif;
+  margin-top: 0px;
+}
+
+.para {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 14px;
+  margin-bottom: 26px;
+}
+
+/* your profile #2  */
+.your-profile {
+  font-family: sans-serif;
+  border: 2px solid #dadce0;
+  width: 500px;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+.your-profile-padding {
+  padding: 30px 30px 21px 30px;
+}
+.your-profile .lines {
+  color: #616569;
+  font-size: 18px;
+}
+.your-profile-heading {
+  font-weight: 100;
+  margin-top: 0px;
+}
+.your-profile [alt="profile-1"] {
+  width: 130px;
+  height: 130px;
+  margin: 0px 50px 0px 20px;
+}
+
+.your-profile img[alt="profile-2"] {
+  width: 120px;
+  height: 120px;
+}
+
+.see-profile {
+  margin: 0px;
+  padding: 20px 30px;
+  border-top: 2px solid #dadce0;
+  color: #4286eb;
+  font-weight: 600;
+}
+
+/* card-profile #3*/
+.card-profile {
+  width: 450px;
+  border: 2px solid #dadce0;
+  border-radius: 10px 10px 0px 0px;
+  font-family: sans-serif;
+  margin: 100px auto;
+}
+.subscribe {
+  text-transform: uppercase;
+  margin: 0px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.card-profile img {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  padding: 0px;
+}
+.card-profile p {
+  color: #5f6367;
+}
+
+.view-details {
+  color: #4286eb;
+  border: 2px solid #dadce0;
+  padding: 15px 40px;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.card-profile .padding {
+  padding: 30px 20px;
+}
+
+.icon {
+  display: flex;
+  gap: 15px;
+}
+.card-profile h1 {
+  font-weight: 300;
+}
+
+.card-profile .summary {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+/* login-page #4*/
+.login-page {
+  width: 300px;
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  margin: 100px auto;
+}
+
+.login-page input {
+  width: 100%;
+  padding: 17px 20px;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+.login-page input::placeholder {
+  font-weight: 600;
+}
+.login-page span {
+  text-decoration: underline;
+}
+.login-page .headline {
+  font-size: 14px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.login-page button {
+  padding: 17px 40px;
+  border-radius: 40px;
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  border: none;
+  margin: 10px 0px 20px 0px;
+}
+.color-grey {
+  color: #b0b0b0;
+}
+.font-size-small {
+  font-size: 12px;
+}
+.font-size {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+span.grey {
+  color: #626262;
+}
+
+.flodesk-img {
+  height: 100px;
+}
